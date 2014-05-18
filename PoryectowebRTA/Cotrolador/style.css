@@ -1,0 +1,30 @@
+#menu {
+list-style: none; /*Las listas tienen un circulito al principio de cada link y con esto lo sacamos*/
+padding: 0; /*Para que no halla relleno entre el borde del menu y lo que este dentro*/
+width: 100%; /*Esto hace que el menu, en el caso de que los links no llenen todo el espacio disponible, se vea hasta que termine la caja que lo contenga*/
+overflow: hidden; /*Esto es complicado*/
+margin: 20px; /*Para que no halla margen entre el menu y la caja que lo contenga*/
+background-color: #ffffff; /*El color del fondo del menú. Así es más colorido*/
+}
+
+#menu li {
+float: left; /*Para que los elementos <li> esten uno al lado del otro y no uno abajo del otro*/
+margin: 10px 10px 10px 70px; /*Para que esten un poco separados y no juntos*/
+padding: 0; /*Sin relleno*/
+}
+
+#menu a {
+display: block; /*Los enlaces son elementos de línea, con esto los transformamos en elementos de bloque para poder manipularlos mejor*/
+float: left; /*Para que esten uno al lado del otro*/
+margin: 0; /*Es lo mismo que en las anteriroes veces*/
+padding: 5px 8px; /*Es lo mismo que en las anteriroes veces*/
+text-decoration: none; /*Es para que los links no esten subrayados*/
+color: #06A4F9; /*Es el color de los enlaces*/
+}
+
+
+#menu a:hover {
+padding: 5px 8px; /*Relleno -.-*/
+color: #0771AA; /*El color de los enlaces. Así al posicionarse el cursor cambiara el color del enlace*/
+background-color: #000; /*El fondo del enlace*/
+}

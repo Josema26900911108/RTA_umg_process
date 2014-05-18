@@ -1,0 +1,62 @@
+body {
+}
+
+
+/* posicion de texto*/ ti1 {
+     font: bold 150% monospace;
+     position: absolute;
+     top:  130px; 
+     left: 650px;
+     color:RED;
+       }
+
+
+/* posicion de texto*/ ti2  {
+      color:#330066	;
+    font: bold 90% monospace;
+    position: absolute;
+     top:  140px; 
+     left: 580px;
+     
+
+    }
+
+
+
+  /* posicion de texto*/ h1  {
+    text-align: center; 
+    font: bold 90% monospace;
+      margin-top:27%;
+      color:blue;
+
+
+    }
+
+
+
+         /* posicion de texto*/TX1 {
+                                  text-indent: 50px;
+                                  }
+
+         /* posicion de texto*/TX2 {
+                                  text-indent: 50px;
+                                  }
+
+         /* posicion de texto*/TX3 {
+                                  text-indent: 80px;
+                                  }
+
+ 
+
+   h2  {
+            
+   /* tamaño de imagen loguer*/background-image:url("pricnipal3.jpg");
+           background-repeat: no-repeat;
+           position:absolute;
+           top: 60%;
+           left: 40%;
+           height:400px;
+           width:600px;
+           margin-top:-200px;
+        }
+	 

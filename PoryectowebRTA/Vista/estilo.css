@@ -1,0 +1,14 @@
+p { color: black; font-family: Verdana; }
+ul {color:red;}
+a {color:green; text-decoration: none;}
+
+H1 {
+   font-family: Arial, Sans-serif;
+   font-size: 19pt;
+   color: #0000FF;
+   text-align: center;
+   background-image: url(cb_gris.jpg);
+   border: thick solid red;
+   letter-spacing: 1em;
+   margin: 0 1cm;
+   }

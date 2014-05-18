@@ -1,0 +1,198 @@
+	/*COLOR DE LA PAG*/body {
+	         
+									background:#AAA;
+
+	                               }
+
+
+
+ /*EL FONDO DE FONDO*/#marco{
+										   
+	position: absolute; 
+	z-index:4; 
+	left:5%; 
+	right:5%; 
+	width: 910px;
+	height: 120px;
+	margin: 0 auto; 
+    background: #000033 ;
+                                                                                
+										   
+					
+
+	
+
+
+}
+
+
+
+
+/*fONDO PARA LA IMAGEN Y EL TEXXTO*/    #sombra
+			                                                                                       {
+																	margin-top: 10px;
+																	margin-left: -10px;
+	
+																				z-index:1; 
+                                                                                   	left:%; 
+	                                                                              right:20%; 				
+																			     width:890px;
+	                                                                            height:110Px;
+                                         	                                    margin: 0.5% auto;
+	                                                                            background: #500000;
+                                                                                   
+	
+	                                                                                  }
+																					        
+
+                                                     
+
+
+
+
+
+
+
+
+
+
+
+/*LE QUITA EL RAYADO DEL ENLACE*/a
+											{
+											
+											text-decoration:none;
+											
+											}
+
+
+													/* POSICION DE LA IMAGEN*/#central
+																		                                     {
+																								
+																								Position:absolute;
+																								top:55%;
+																								left: 13%;
+																								margin-top: -60PX;
+																								margin-left: -110px;
+
+                                                                                                       }
+                                                                                                     
+																								 /*EDITAR LA LETRA*/  font
+																								         {
+																								            position:relative;
+																											top:50%;
+																											left: -5%;
+
+																											margin-top: 15px;
+																											font-family: verdana arial helvetica "sans serif";
+																											font-size: 35;
+	
+ 	
+                                                                                                       	}
+
+                                                                                                                 /*EDITAR EL TITULO */h1
+																												        {
+																													text-shadow: 1em 0.57em #000033;
+																													position:absolute;
+																													top:100%;
+																													left: 35%;
+
+																													margin-top: -100px;
+																													margin-left: -120px;
+																													color:#EEE;
+																														}
+	                                                                                                                          h2
+																												        {
+																													
+																													margin-top: 4px;
+																													margin-left: 365px;
+																													color:#000033;
+																														}
+
+
+
+
+                                                             
+	
+#header {
+    position: absolute; 
+	z-index:4%; 
+	left:-80%; 
+	right:-100%; 
+	height:40%;
+	   margin:2% auto; 
+     float:left;
+    width:98%;
+    background:#ff9;
+	font-size:60%;
+    line-height:normal;
+    }
+	
+	#a{
+	z-index:10%; 
+	left:0%; 
+	right:0%; 				
+	width:900px;
+	height:50Px;
+	margin: 12%  9% auto;
+	background: #FF0000	;
+    }
+
+		
+		
+		
+/*menu de accion*/
+#navi {  
+
+																													position:absolute;
+																													top:100%;
+																													left: 35%;
+
+																													margin-top: -100px;
+																													margin-left: -120px;
+	list-style:none;
+	width:500px;
+	height:10Px;
+	margin: 1 auto;
+	padding:0;
+	
+
+}
+
+/*MENU DE OPCIONES*/#navi li {
+ 
+   
+	margin:10px;
+	 padding:10px;
+           border:1px solid #CCCCCC;
+             float:left;
+
+
+}
+
+
+/*FONDO PARA LA CLAVE Y USUARIO  mueve todo*/#fondo{
+	position: absolute; 
+	z-index:30; 
+		top:-200%;
+	left:-40%; 
+	right:45%; 
+	color:#400;
+	width: 180%;
+	height: 400px;
+	margin: 30% auto; 
+    background: #ffc;
+font-size:10;	    
+	
+	}
+	table{
+			
+		position:absolute;
+																												
+
+																													margin-top: 5%;
+																													margin-left: 14%;
+																													color:#3B0B0B;
+																													
+		}
+	
+	
